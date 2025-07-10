@@ -1,7 +1,7 @@
 // 配置图片路径
 const background_urls = [
-            'https://cloudsource.pages.dev/img/background/01.webp',
             'https://cloudsource.pages.dev/img/background/02.webp',
+            'https://cloudsource.pages.dev/img/background/01.webp',
         ]
 const bgUrl = background_urls[Math.floor((Math.random() * background_urls.length))];
 
